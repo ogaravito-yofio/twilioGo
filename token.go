@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/SermoDigital/jose/crypto"
-	"github.com/SermoDigital/jose/jws"
+	"github.com/ogaravito-yofio/jose/crypto"
+	"github.com/ogaravito-yofio/jose/jws"
 )
 
 const (
